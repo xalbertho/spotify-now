@@ -154,7 +154,7 @@ def makeSVG(data, background_color, border_color):
         "artistURI": artistURI,
         "image": image,
         "status": currentStatus,
-        "background_color": background_color=8b0000&border_color=ffffff,
+        "background_color":/? background_color=8b0000&border_color=ffffff,
         "border_color": border_color,
         "barPalette": barPalette,
         "songPalette": songPalette
