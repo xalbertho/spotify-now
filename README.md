@@ -1,9 +1,10 @@
 
-&nbsp;
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+&nbsp;<div align="center">
+ 
 [![Spotify](https://spotify-now-albertos-projects-c7a2f9c2.vercel.app//api/spotify)](https://open.spotify.com/user/31uymqpieuqu273rs7p3vfuqo3sy?si=6_6U9ZFDTQKIDEDXA7jWXw) 
 
+</div>
 <div align="center">
 
 
