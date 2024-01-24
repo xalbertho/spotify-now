@@ -98,7 +98,7 @@ def makeSVG(data):
         "image": image,
     }
 
-    return render_template("spotify-dark.html.j2", **dataDict)
+    return render_template("spotify.html.j2", **dataDict)
 
 @app.route("/", defaults={"path": ""})
 @app.route("/<path:path>")
