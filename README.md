@@ -8,13 +8,15 @@
 </div-->
 
 <div align="center">
-  <img align="left" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/originals/38/9d/3b/389d3bf350d09860a6fd4ad41f339566.gif" />
+  <img align="left" height="220px" alt="GIF" src="https://i.pinimg.com/originals/38/9d/3b/389d3bf350d09860a6fd4ad41f339566.gif" />
   <div align="right">
     <a href="https://open.spotify.com/user/31uymqpieuqu273rs7p3vfuqo3sy?si=6_6U9ZFDTQKIDEDXA7jWXw">
       <img src="https://spotify-now-albertos-projects-c7a2f9c2.vercel.app//api/spotify" alt="Escuchando ahora mismo en Spotify"/>
     </a>
+    <br/>
+    <span>🎧 Escuchando ahora mismo en Spotify</span>
   </div>
-  <br/>
+  <br/><br/>
   <div align="center">
     <code><img height="30" src="https://www.mathworks.com/matlabcentral/communitycontests/uploaded_files/159/image.png" alt="Logo Matlab"/></code>
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="Logo C"/></code>
